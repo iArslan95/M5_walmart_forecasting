@@ -1,0 +1,4 @@
+# Data folder and its contents
+data/
+*.csv
+*.png
