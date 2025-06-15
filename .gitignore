@@ -1,4 +1,7 @@
 # Data folder and its contents
-data/
+data/*.csv
 *.csv
 *.png
+
+# Ignore PyCharm project folder
+.idea/
